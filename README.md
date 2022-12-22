@@ -1,1 +1,1 @@
-A Chrome extension that blocks the advertisement of Twitter Blue in the sidebar on desktop.
+Are you tired of being reminded that Twitter Blue exists? Do you wish there was a way to avoid seeing the $8 per month blue check advertised to you on every page in your Twitter desktop experience? Here's a Chrome extension that blocks the advertisement of Twitter Blue in the sidebar on desktop.
