@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Twitter Blue Blocker",
+    "version": "1.0",
+    "description": "A Chrome extension that blocks the advertisement of Twitter Blue in the sidebar on desktop.",
+    "content_scripts": [
+        {
+            "matches": ["https://www.twitter.com/*"],
+            "js": ["./main.js"]
+        }
+    ]
+}
