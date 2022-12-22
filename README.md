@@ -1,0 +1,1 @@
+A Chrome extension that blocks the advertisement of Twitter Blue in the sidebar on desktop.
